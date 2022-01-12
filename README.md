@@ -2,7 +2,6 @@
 
 # What is a Recommendation System ?
 
-The following repository contains the working code for the movie recommendation system that I developed.
 Simply put a Recommendation System is a filtration program whose prime goal is to predict the “rating” or 
 “preference” of a user towards a domain-specific item or item. In our case, this domain-specific item is a movie,
 therefore the main focus of our recommendation system is to filter and predict only those movies which a user 
