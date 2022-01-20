@@ -18,5 +18,4 @@ or movies with the genre ‘Thriller’ or maybe even movies directed by ‘Chri
 recommendation system checks the past preferences of the user and find the film “The Prestige”, then tries to find 
 similar movies to that using the information available in the database such as the lead actors, the director,
 genre of the film, production house, etc and based on this information find movies similar to “The Prestige”.
-
-
+The app deployment was done at heroku server.
