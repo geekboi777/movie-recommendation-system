@@ -7,7 +7,7 @@ Simply put a Recommendation System is a filtration program whose prime goal is t
 therefore the main focus of our recommendation system is to filter and predict only those movies which a user 
 would prefer given some data about the user him or herself.
 
-# Different types of filtering in a Recommendation System ?
+# Different types of filtering in a Recommendation System?
 
 The system could be collaborative based or content based. The above project utilizes content-based filtering.
 This filtration strategy is based on the data provided about the items. The algorithm recommends products that 
